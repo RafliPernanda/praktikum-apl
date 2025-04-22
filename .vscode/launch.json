@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/praktikum-apl/post-test/post-test-2",
-      "program": "d:/praktikum-apl/post-test/post-test-2/build/Debug/outDebug",
+      "cwd": "d:/praktikum-apl/kelas/Pertemuan-5",
+      "program": "d:/praktikum-apl/kelas/Pertemuan-5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
